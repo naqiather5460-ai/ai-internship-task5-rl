@@ -1,0 +1,22 @@
+{
+  "random_policy": {
+    "mean_reward": -6.1082,
+    "avg_tool_calls": 3.18,
+    "success_rate": 0.166
+  },
+  "always_answer_immediately": {
+    "mean_reward": -8.200000000000001,
+    "avg_tool_calls": 0.0,
+    "success_rate": 0.0
+  },
+  "trained_q_agent": {
+    "mean_reward": 10.0556,
+    "avg_tool_calls": 1.672,
+    "success_rate": 0.998
+  },
+  "learned_policy": {
+    "factual|stage0": "web_search",
+    "math|stage0": "calculator",
+    "data|stage0": "cache_lookup"
+  }
+}
